@@ -1,0 +1,6 @@
+C:\Users\Phee Yong Xiang\Desktop\AzureWebService\AzureWebService\bin\AzureWebService.dll.config
+C:\Users\Phee Yong Xiang\Desktop\AzureWebService\AzureWebService\bin\AzureWebService.dll
+C:\Users\Phee Yong Xiang\Desktop\AzureWebService\AzureWebService\bin\AzureWebService.pdb
+C:\Users\Phee Yong Xiang\Desktop\AzureWebService\AzureWebService\obj\Release\AzureWebService.csprojResolveAssemblyReference.cache
+C:\Users\Phee Yong Xiang\Desktop\AzureWebService\AzureWebService\obj\Release\AzureWebService.dll
+C:\Users\Phee Yong Xiang\Desktop\AzureWebService\AzureWebService\obj\Release\AzureWebService.pdb
